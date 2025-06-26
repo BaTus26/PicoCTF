@@ -27,10 +27,6 @@ Xin chào! Mình là một sinh viên đang theo học ngành **An toàn thông 
 
 ## 🎯 Mục tiêu cá nhân
 
-- [x] Làm quen và thực hành các bài CTF nhỏ, dễ tiếp cận
-- [x] Biết cách phân tích một CVE đơn giản
-- [x] Tự viết khai thác cho vài CVE mình quan tâm
-- [x] Xây dựng một lab riêng để mô phỏng tấn công thực tế
 - [x] Trở thành redteam
 
 ---
