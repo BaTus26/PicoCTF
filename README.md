@@ -35,7 +35,7 @@ Xin chào! Mình là một sinh viên đang theo học ngành **An toàn thông 
 
 - 📧 Email: *hoangbatu26112006@gmail.com*
 - 🌐 Có thể sẽ làm blog cá nhân khi rảnh 😄
-- 🐱 GitHub: [@your-github-username](https://github.com/your-github-username)
+- 📎 Github cá nhân: [🔗 BaTus26](https://github.com/BaTus26)
 
 ---
 
